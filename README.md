@@ -14,16 +14,16 @@ Aquest és un projecte senzill per generar contrasenyes segures utilitzant la in
 
 1. Clona aquest repositori a la teva màquina local:
 ```sh
-git clone https://github.com/el_teu_usuari/generador-contrasenyes.git
+git clone https://github.com/jordiferr/Contrasenyes-bash.git
 ```
 
 2. Navega al directori del projecte
 ```sh
-cd generador-contrasenyes
+cd Contrasenyes-bash
 ```
 
 3. Executa'l
 ```sh
-sh generador-contrasenyes.sh
+sh contrasenyes_bash.sh
 ```
 
